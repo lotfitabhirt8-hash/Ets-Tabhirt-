@@ -1,0 +1,23 @@
+ETS TABHIRT — SITE VITRINE TRILINGUE
+====================================
+
+Contenu :
+- index.html : site en français, arabe et anglais
+- logo-ets-tabhirt.jpg : logo fourni par Ets Tabhirt
+
+Catalogue :
+La liste des fongicides fournie par l'entreprise a été ajoutée au catalogue.
+Les matières actives, formulations, cultures homologuées, doses et usages doivent
+être vérifiés à partir des étiquettes officielles et de la réglementation algérienne
+avant de publier des fiches techniques détaillées. Les références affichées ne
+constituent pas une confirmation de disponibilité en stock.
+
+Publication gratuite avec GitHub Pages :
+1. Créez un compte sur https://github.com/
+2. Créez un dépôt public nommé ets-tabhirt.
+3. Téléversez index.html et logo-ets-tabhirt.jpg à la racine du dépôt.
+4. Ouvrez Settings > Pages.
+5. Choisissez Deploy from a branch, branche main, dossier / (root), puis Save.
+6. GitHub affichera l'adresse publique du site.
+
+Les photos d'illustration du site nécessitent une connexion Internet.
